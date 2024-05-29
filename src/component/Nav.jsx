@@ -22,7 +22,7 @@ const NavLinks = () => {
         <NavLink
           to="/"
           key="bio"
-          className=" text-white hover:bg-hoverColor hover:text-black rounded-lg p-2"
+          className=" text-black hover:bg-hoverColor hover:text-black rounded-lg p-2"
         >
           BIO
         </NavLink>
@@ -38,7 +38,7 @@ const NavLinks = () => {
         <NavLink
           to="/"
           key="projects"
-          className=" text-white hover:bg-hoverColor hover:text-black rounded-lg p-2"
+          className=" text-black hover:bg-hoverColor hover:text-black rounded-lg p-2"
         >
           PROJECTS
         </NavLink>
@@ -54,7 +54,7 @@ const NavLinks = () => {
         <NavLink
           to="/"
           key="about"
-          className=" text-white hover:bg-hoverColor hover:text-black rounded-lg p-2"
+          className=" text-black hover:bg-hoverColor hover:text-black rounded-lg p-2"
         >
           ABOUT
         </NavLink>
